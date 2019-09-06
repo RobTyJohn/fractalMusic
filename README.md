@@ -1,5 +1,5 @@
 # fractalMusic
-C++ program that creates fractal music
+C++ program that creates fractal music- 
 Since ancient history mathematics and music have had a close relationship.
 A large portion of modern music theory is based upon the work of the same Pythagoras that contributed much to geometry.
 Pythagoras developed a musical theory based upon ratios that helped explain the relationship of different notes and scales.
