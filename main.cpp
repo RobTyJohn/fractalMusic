@@ -22,7 +22,7 @@ int main() {
 	string input;
 
 	do {
-		// sets bool endPorgram to false
+		// sets bool endProgram to false
 		endProgram = false;
 		// main menu ui
 		cout << "\nMain menu\n"
